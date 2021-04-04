@@ -1,4 +1,4 @@
-The code present here is from the following 3-part tutorial by [Jeremy](https://cycling74.com/author/531ee78c4db05f8762373b5f) on Cycling74.com:
+The code present here is from the following 3-part tutorial on creating a standalone Max editor for the Korg minilogue xd by [Jeremy](https://cycling74.com/author/531ee78c4db05f8762373b5f) on Cycling74.com:
 - [Part 1](https://cycling74.com/tutorials/building-a-synthesizer-editor-with-javascript-part-1)
 - [Part 2](https://cycling74.com/tutorials/building-a-synthesizer-editor-with-javascript-part-2)
 - [Part 3](https://cycling74.com/tutorials/building-a-synthesizer-editor-with-javascript-part-3)
